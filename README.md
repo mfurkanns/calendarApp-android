@@ -1,5 +1,5 @@
 # calendarApp-android
-Mobil Programlama Dersi Dönem Projesi, Mehmet Furkan Şahin - 16011066 
+Mobil Programlama Dersi Dönem Projesi
 
 TermProjectSon.zip : proje kodları
 
