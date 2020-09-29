@@ -1,8 +1,8 @@
 # calendarApp-android
-Mobil Programlama Dersi Dönem Projesi
+Mobile Programming Term Project
 
-TermProjectSon.zip : proje kodları
+- TermProjectSon.zip 
 
-apk-debug.apk : uygulama apk'sı
+- apk-debug.apk 
 
-Uygulama anlatım linki : https://www.youtube.com/watch?v=ay_0u2i7tdw&feature=youtu.be
+For more information : https://www.youtube.com/watch?v=ay_0u2i7tdw&feature=youtu.be
